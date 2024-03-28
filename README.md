@@ -4,11 +4,11 @@ This repository engaged in a task typically associated with machine learning, sp
 
 The main accomplishments in this Jupyter Notebook are:
 
-1: Find Closest Centroids: You implemented the find_closest_centroids function that takes a data matrix X and an array of centroid positions centroids. The function computes the distance between each data point and each centroid, assigning the closest centroid to each data point. This process is essential for the K-Means algorithm, as it forms the basis for clustering the data into distinct groups.
+1: Find Closest Centroids: Implementing the find_closest_centroids function that takes a data matrix X and an array of centroid positions centroids. The function computes the distance between each data point and each centroid, assigning the closest centroid to each data point. This process is essential for the K-Means algorithm, as it forms the basis for clustering the data into distinct groups.
 
-2: Compute New Centroids: Subsequently, you coded the compute_centroids function. This function recalculates each centroid's position by averaging the data points that have been assigned to it. This step is crucial in the iterative process of K-Means, refining the centroids' positions to better represent the clusters' centers.
+2: Compute New Centroids: Subsequently, coding the compute_centroids function. This function recalculates each centroid's position by averaging the data points that have been assigned to it. This step is crucial in the iterative process of K-Means, refining the centroids' positions to better represent the clusters' centers.
 
-3: Testing and Validation: Throughout the notebook, you were methodical in testing these functions using dummy or example data. These tests validate the correctness of your implementations, ensuring that the functions perform as expected.
+3: Testing and Validation: Throughout the notebook, testing these functions using dummy or example data. These tests validate the correctness of implementations, ensuring that the functions perform as expected.
 
 In this Jupyter Notebook work, several outputs are generated:
 
